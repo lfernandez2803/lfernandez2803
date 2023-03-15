@@ -8,11 +8,13 @@ My name is Luis Fernández, I'm from Caracas/Venezuela and I'm a SysAdmin improv
 -->
 ## Learning
 I'm currently learning about:
-- Docker
-- K8s
-- Terraform
-- Ansible
-- Python coding 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="20"/> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="20"/> K8s
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="20"/> Terraform
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="20"/> Ansible
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="20"/> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Golang
+          
 
 ## Contact
 How to reach me:
